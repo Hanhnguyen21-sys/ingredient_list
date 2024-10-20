@@ -1,0 +1,56 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+
+label{
+    margin: 25px 5px;
+}
+
+#remove_items{
+    background-color: #C8D9E6;
+    color: #ea9f1e;
+    font-weight: 500;
+    padding:20px;
+}
+
+#r_btn{
+    background-color: #FFF1C1;
+    color:#33576e;
+    padding:10px;
+    margin:10px;
+    border-radius: 10px;
+    font-weight: bold;
+    border: 2px solid #33576e;
+    cursor: pointer;
+}
+
+#add_btn{
+    background-color: #FFF1C1;
+    color:#33576e;
+    padding:10px;
+    margin:10px;
+    border-radius: 10px;
+    font-weight: bold;
+    border: 2px solid #33576e;
+    cursor: pointer;
+}
+#add_btn:hover{
+    background-color: #ea9f1e;
+    color: #33576e;
+}
+select{
+    font-size: 0.85em;
+    text-align: center;
+    width: 180px;
+    margin: 10px 10px;
+    padding: 5px 0;
+    border:2px solid darkcyan;
+    border-radius: 10px;
+}
+img{
+    width: 400px;
+    padding:20px;
+}
